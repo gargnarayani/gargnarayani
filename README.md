@@ -1,5 +1,3 @@
-# Welcome to my digital scrapbook!
-
 <p align="center">
   <!-- Floral Banner (Ensure githubbanner.jpg is uploaded to the repo) -->
   <img src="githubbanner.jpg" alt="Welcome to Narayani Garg's GitHub" width="100%" style="border-radius: 15px;" />
