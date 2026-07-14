@@ -20,20 +20,14 @@
 
 ## About Me
 
-<div>
-  <!-- Left Side: Text Paragraph (Takes up 50% width via float) -->
-  <div style="float: left; width: 48%; text-align: left;">
-    Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
-  </div>
-  
-  <!-- Right Side: Image Block (Takes up 50% width via float) -->
-  <div style="float: right; width: 48%; text-align: right;">
-    <img src="quote.png" alt="My Favorite Quote" width="100%" style="border-radius: 10px;" />
-  </div>
-</div>
+<p align="left">
+  <!-- Scaled to take up ~48% of the width on the right side -->
+  <img src="quote.png" alt="My Favorite Quote" width="48%" align="right" style="margin-left: 20px; border-radius: 10px;" />
+  <!-- Text wraps naturally on the left side taking up the other half -->
+  Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
+</p>
 
-<!-- Clear floats so the rest of the profile doesn't slide into the sides -->
-<br clear="all" />
+<br clear="right" />
 
 ---
 
