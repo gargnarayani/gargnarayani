@@ -21,14 +21,6 @@
 </p>
 
 <br clear="right" />
-  
-  <!-- Image Side -->
-  <div align="right" style="display: inline-block; width: 48%; vertical-align: top;">
-    <img src="quote.png" alt="My Favorite Quote" width="100%" style="border-radius: 10px;" />
-  </div>
-</div>
-
-<br clear="all" />
 
 ---
 
