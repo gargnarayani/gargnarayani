@@ -15,20 +15,12 @@
   <a href="https://yourname.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ffd9f0?style=for-the-badge&logo=react&logoColor=EA9AB2" alt="Portfolio" /></a>
 </p>
 
-<div>
-  <!-- Text Side (Takes up exactly half the width) -->
-  <div align="left" style="display: inline-block; width: 48%; vertical-align: top;">
-    Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am incredibly passionate about bridging the gap between low-level hardware execution and clean, high-performance software logic. My engineering journey is driven by a love for problem-solving, structural optimization, and creating intuitive user experiences from the ground up. Right now, I am actively channeling this energy into developing a series of personal passion projects, tackling advanced technical coursework, and gaining hands-on industry experience through my current work opportunities. I love diving into complex system architectures, exploring new developer toolkits, and constantly expanding my skills as a full-stack builder and systems thinker.
-  </div>
-  
-  <!-- Image Side (Takes up exactly half the width) -->
-  <div align="right" style="display: inline-block; width: 48%; vertical-align: top;">
-    <img src="quote.png" alt="My Favorite Quote" width="100%" style="border-radius: 10px;" />
-  </div>
-</div>
+<p align="left">
+  <img src="quote.png" alt="My Favorite Quote" width="35%" align="right" style="margin-left: 20px; border-radius: 10px;" />
+  Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am incredibly passionate about bridging the gap between low-level hardware execution and clean, high-performance software logic. My engineering journey is driven by a love for problem-solving, structural optimization, and creating intuitive user experiences from the ground up. Right now, I am actively channeling this energy into developing a series of personal passion projects, tackling advanced technical coursework, and gaining hands-on industry experience through my current work opportunities. I love diving into complex system architectures, exploring new developer toolkits, and constantly expanding my skills as a full-stack builder and systems thinker.
+</p>
 
-<br clear="all" />
-
+<br clear="right" />
 ---
 
 ## Technical Toolkit
