@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Local Repository Banner Image -->
-  <img src="githubbanner" alt="Welcome to Narayani Garg's GitHub" width="100%" style="border-radius: 15px;" />
+  <img src="githubbanner.png" alt="Welcome to Narayani Garg's GitHub" width="100%" style="border-radius: 15px;" />
 </p>
 
 <p align="center">
@@ -20,16 +20,19 @@
 
 ## About Me
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
-      Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
-    </td>
-    <td width="50%" valign="top" style="border-left: 2px solid #ffd9f0; padding-left: 20px;">
-      <i>"quote"</i>
-    </td>
-  </tr>
-</table>
+<div>
+  <!-- Text Side -->
+  <div align="left" style="display: inline-block; width: 48%; vertical-align: top;">
+    Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
+  </div>
+  
+  <!-- Image Side -->
+  <div align="right" style="display: inline-block; width: 48%; vertical-align: top;">
+    <img src="quote.png" alt="My Favorite Quote" width="100%" style="border-radius: 10px;" />
+  </div>
+</div>
+
+<br clear="all" />
 
 ---
 
