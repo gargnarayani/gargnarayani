@@ -28,11 +28,9 @@
   Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
   <br /><br />
   Here are some fun facts about me:
-  <ul>
     <li>I have never broken a single bone in my body, which is a miracle given how clumsy I am.</li>
     <li>When I was a kid, I used to watch the 12 Dancing Princesses movie every single day without fail.</li>
     <li>I preserve the most random stuff because of sentimental value.</li>
-  </ul>
 </p>
 
 <br clear="right" />
