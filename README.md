@@ -20,18 +20,20 @@
 
 ## About Me
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <!-- Left Side: Text Paragraph (Takes up exactly half the width) -->
-    <td width="49%" valign="top" style="border: none; padding-right: 20px; text-align: left;">
-      Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am incredibly passionate about bridging the gap between low-level hardware execution and clean, high-performance software logic. My engineering journey is driven by a love for problem-solving, structural optimization, and creating intuitive user experiences from the ground up. Right now, I am actively channeling this energy into developing a series of personal passion projects, tackling advanced technical coursework, and gaining hands-on industry experience through my current work opportunities. I love diving into complex system architectures, exploring new developer toolkits, and constantly expanding my skills as a full-stack builder and systems thinker.
-    </td>
-    <!-- Right Side: Image Column (Takes up exactly half the width) -->
-    <td width="49%" valign="top" style="border: none; padding-left: 20px; text-align: right;">
-      <img src="quote.png" alt="My Favorite Quote" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<div>
+  <!-- Left Side: Text Paragraph (Takes up 50% width via float) -->
+  <div style="float: left; width: 48%; text-align: left;">
+    Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
+  </div>
+  
+  <!-- Right Side: Image Block (Takes up 50% width via float) -->
+  <div style="float: right; width: 48%; text-align: right;">
+    <img src="quote.png" alt="My Favorite Quote" width="100%" style="border-radius: 10px;" />
+  </div>
+</div>
+
+<!-- Clear floats so the rest of the profile doesn't slide into the sides -->
+<br clear="all" />
 
 ---
 
