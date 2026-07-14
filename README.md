@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <!-- Typing animation with "I am a" fixed, Montserrat font, and cursor -->
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=4000&pause=1500&color=E27396&center=true&vCenter=true&width=700&height=50&lines=I+am+a+creator;I+am+a+coder;I+am+an+engineer;I+am+an+artist;I+am+a+learner;I+am+an+entrepreneur;I+am+an+ideator;I+am+a+member+of+the+wolfpack;I+am+a+leader;I+am+a+full-stack+developer;I+am+a+student;I+am+a+computer+engineer;I+am+a+Self-Taught+Coder;I+am+a+Problem+Solver;I+am+a+Systems+Thinker" alt="Typing Animation" />
 </p>
 
@@ -16,13 +15,9 @@
   <a href="https://yourname.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ffd9f0?style=for-the-badge&logo=react&logoColor=EA9AB2" alt="Portfolio" /></a>
 </p>
 
----
-
-## About Me
-
 <p align="left">
   <img src="quote.png" alt="My Favorite Quote" width="35%" align="right" style="margin-left: 20px; border-radius: 10px;" />
-  Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
+  Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am incredibly passionate about bridging the gap between low-level hardware execution and clean, high-performance software logic. My engineering journey is driven by a love for problem-solving, structural optimization, and creating intuitive user experiences from the ground up. Right now, I am actively channeling this energy into developing a series of personal passion projects, tackling advanced technical coursework, and gaining hands-on industry experience through my current work opportunities. I love diving into complex system architectures, exploring new developer toolkits, and constantly expanding my skills as a full-stack builder and systems thinker.
 </p>
 
 <br clear="right" />
