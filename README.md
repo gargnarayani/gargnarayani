@@ -29,9 +29,8 @@
   <br /><br />
   Here are some fun facts about me:
   <ul>
-    <li>I have never broken a single bone in my body, which feels like a miracle given how clumsy I am.</li>
+    <li>I have never broken a single bone in my body, which is a miracle given how clumsy I am.</li>
     <li>When I was a kid, I used to watch the 12 Dancing Princesses movie every single day without fail.</li>
-    <li>I sneeze in the sun.</li>
     <li>I preserve the most random stuff because of sentimental value.</li>
   </ul>
 </p>
