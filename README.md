@@ -83,10 +83,10 @@
 
 ---
 
-## My Activity
-
 <p align="center">
-  <!-- Refined and color-coordinated visual metrics graphs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gargnarayani&show_icons=true&theme=buefy&hide_border=true&title_color=E27396&icon_color=EA9AB2" alt="GitHub Analytics" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargnarayani&layout=compact&theme=buefy&hide_border=true&title_color=E27396" alt="Top Languages" width="49%" />
+  <!-- Wholesome Closing Message -->
+  <strong>Have an absolutely awesome day!</strong>
+  <br /><br />
+  <!-- Dynamic Pink Animal Outros Typing Loop -->
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=3000&pause=1000&color=E27396&center=true&vCenter=true&width=500&height=40&lines=See+ya+later%2C+alligator!;In+a+while%2C+crocodile.;Take+care%2C+polar+bear.;See+you+soon%2C+raccoon.;Bye-bye%2C+butterfly.;Sayonara%2C+capybara!;Tootle-loo%2C+kangaroo." alt="Fun Closings Typing Loop" />
 </p>
