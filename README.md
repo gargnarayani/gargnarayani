@@ -1,15 +1,15 @@
 <p align="center">
-  <!-- Local Repository Banner Image -->
+  <!-- Banner Image -->
   <img src="githubbanner.png" alt="Welcome to Narayani Garg's GitHub" width="100%" style="border-radius: 15px;" />
 </p>
 
 <p align="center">
-  <!-- Typing animation with "I am a" fixed, Montserrat font, and cursor -->
+  <!-- Typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=4000&pause=1500&color=E27396&center=true&vCenter=true&width=700&height=50&lines=I+am+a+creator;I+am+a+coder;I+am+an+engineer;I+am+an+artist;I+am+a+learner;I+am+an+entrepreneur;I+am+an+ideator;I+am+a+member+of+the+wolfpack;I+am+a+leader;I+am+a+full-stack+developer;I+am+a+student;I+am+a+computer+engineer;I+am+a+Self-Taught+Coder;I+am+a+Problem+Solver;I+am+a+Systems+Thinker" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <!-- Clean Hex #ffd9f0 Social Buttons -->
+  <!-- Social Buttons -->
   <a href="https://www.linkedin.com/in/gargnarayani/"><img src="https://img.shields.io/badge/LinkedIn-ffd9f0?style=for-the-badge&logo=linkedin&logoColor=EA9AB2" alt="LinkedIn" /></a>
   <a href="https://www.pinterest.com/gargnarayani/"><img src="https://img.shields.io/badge/Pinterest-ffd9f0?style=for-the-badge&logo=pinterest&logoColor=EA9AB2" alt="Pinterest" /></a>
   <a href="https://leetcode.com/u/gargnarayani/"><img src="https://img.shields.io/badge/LeetCode-ffd9f0?style=for-the-badge&logo=leetcode&logoColor=EA9AB2" alt="LeetCode" /></a>
@@ -21,10 +21,10 @@
 ## About Me
 
 <p align="left">
-  <!-- Scaled to take up ~48% of the width on the right side -->
+  <!-- Quote -->
   <img src="quote.png" alt="My Favorite Quote" width="48%" align="right" style="margin-left: 40px; border-radius: 10px;" />
   
-  <!-- Text wraps naturally on the left side taking up the other half -->
+  <!-- Text wraps on the left side -->
   Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. 
   <br /><br />
   Here are some fun facts about me:
@@ -91,9 +91,9 @@
 ---
 
 <p align="center">
-  <!-- Wholesome Closing Message -->
+  <!-- Closing Message -->
   <strong>Have an absolutely awesome day!</strong>
   <br /><br />
-  <!-- Dynamic Pink Animal Outros Typing Loop -->
+  <!-- Outros Typing Loop -->
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=3000&pause=1000&color=E27396&center=true&vCenter=true&width=500&height=40&lines=See+ya+later%2C+alligator!;In+a+while%2C+crocodile.;Take+care%2C+polar+bear.;See+you+soon%2C+raccoon.;Bye-bye%2C+butterfly.;Sayonara%2C+capybara!;Tootle-loo%2C+kangaroo." alt="Fun Closings Typing Loop" />
 </p>
