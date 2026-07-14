@@ -1,109 +1,88 @@
 <p align="center">
-  <!-- Gorgeous Floral Banner -->
+  <!-- Floral Banner (Ensure githubbanner.jpg is uploaded to the repo) -->
   <img src="githubbanner.jpg" alt="Welcome to Narayani Garg's GitHub" width="100%" style="border-radius: 15px;" />
 </p>
 
 <p align="center">
-  <!-- Custom Whimsical Typing Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=3000&pause=1000&color=E27396&center=true&vCenter=true&width=700&height=50&lines=hi!+i'm+narayani+%E2%9C%A8;computer+engineering+%40+nc+state+%F0%9F%90%BE;welcome+to+my+pastel+coding+space+%F0%9F%8C%B8" alt="Typing SVG Animation" />
+  <!-- Slowed down cycling typing animation with custom font and cursor -->
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&duration=4000&pause=1500&color=E27396&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Narayani;I'm+a+creator;I'm+a+coder;I'm+an+engineer;I'm+an+artist;I'm+a+learner;I'm+an+entrepreneur;I'm+an+ideator;I'm+a+member+of+the+wolfpack;I'm+a+leader;I'm+a+full-stack+developer;I'm+a+student;I'm+a+computer+engineer;I'm+a+Self-Taught+Coder;I'm+a+Problem+Solver;I'm+a+Systems+Thinker" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <!-- Social Buttons in exact hex color #ffd9f0 -->
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-pink_bestie-ffd9f0?style=for-the-badge&logo=linkedin&logoColor=EA9AB2" /></a>
-  <a href="https://leetcode.com/yourusername"><img src="https://img.shields.io/badge/LeetCode-grind_time-ffd9f0?style=for-the-badge&logo=leetcode&logoColor=EA9AB2" /></a>
-  <a href="https://pinterest.com/yourusername"><img src="https://img.shields.io/badge/Pinterest-inspo_boards-ffd9f0?style=for-the-badge&logo=pinterest&logoColor=EA9AB2" /></a>
-  <a href="https://yourname.vercel.app"><img src="https://img.shields.io/badge/Portfolio-cute_fridge_inside-ffd9f0?style=for-the-badge&logo=react&logoColor=EA9AB2" /></a>
+  <!-- Clean Hex #ffd9f0 Social Buttons with Real Links -->
+  <a href="https://www.linkedin.com/in/gargnarayani/"><img src="https://img.shields.io/badge/LinkedIn-ffd9f0?style=for-the-badge&logo=linkedin&logoColor=EA9AB2" alt="LinkedIn" /></a>
+  <a href="https://www.pinterest.com/gargnarayani/"><img src="https://img.shields.io/badge/Pinterest-ffd9f0?style=for-the-badge&logo=pinterest&logoColor=EA9AB2" alt="Pinterest" /></a>
+  <a href="https://leetcode.com/u/gargnarayani/"><img src="https://img.shields.io/badge/LeetCode-ffd9f0?style=for-the-badge&logo=leetcode&logoColor=EA9AB2" alt="LeetCode" /></a>
+  <a href="https://yourname.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ffd9f0?style=for-the-badge&logo=react&logoColor=EA9AB2" alt="Portfolio" /></a>
 </p>
 
 ---
 
-## 🌸 About Me
-Hi there! I'm **Narayani Garg**, a Computer Engineering student at NC State who loves making things look pretty on the outside while engineering clean, efficient logic underneath. 
-
-Whether I'm debugging C++, configuring a microcontroller, drawing up visual layouts, or finding cute vintage tech inspirations, I treat every project as a creative puzzle. 
-
-### 🐾 What I Do Around Campus
-*   **Engineering Ambassador @ NC State College of Engineering:** Representing the college, helping recruit future engineers, and showing off our campus!
-*   **Internal Project Manager @ Society of Asian Scientists and Engineers (SASE):** Managing our internal tech projects and putting together fun engineering and cultural programs to bring everyone together.
-*   **Treasurer @ Grand Challenge Scholars Organization:** Managing our finances and finding ways to support projects aimed at solving some of the world's biggest challenges.
-*   **Historian @ Honors and Scholars Council:** Preserving our memories, designing events, and bringing different perspectives together to resolve conflicts creatively.
+## About Me
+Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
 
 ---
 
-## 🗂️ The Technical Toolbox (Pink Skill Squares!)
+## Technical Toolkit
 
-### 💻 Front-End & Styling
+### Front-End & Styling
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-ffd9f0?style=flat-square&logo=javascript&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/HTML5-ffd9f0?style=flat-square&logo=html5&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/CSS3-ffd9f0?style=flat-square&logo=css3&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/React-ffd9f0?style=flat-square&logo=react&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Next.js-ffd9f0?style=flat-square&logo=nextdotjs&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-ffd9f0?style=flat-square&logo=tailwindcss&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Framer_Motion-ffd9f0?style=flat-square&logo=framer&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/React_Context_API-ffd9f0?style=flat-square&logo=react&logoColor=EA9AB2" />
+  <img src="https://img.shields.io/badge/JavaScript-ffd9f0?style=for-the-badge&logo=javascript&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/HTML5-ffd9f0?style=for-the-badge&logo=html5&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/CSS3-ffd9f0?style=for-the-badge&logo=css3&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/React-ffd9f0?style=for-the-badge&logo=react&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Next.js-ffd9f0?style=for-the-badge&logo=nextdotjs&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ffd9f0?style=for-the-badge&logo=tailwindcss&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Framer_Motion-ffd9f0?style=for-the-badge&logo=framer&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/React_Context_API-ffd9f0?style=for-the-badge&logo=react&logoColor=EA9AB2" height="40" />
 </p>
 
-### ⚙️ Back-End & Databases
+### Back-End & Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-ffd9f0?style=flat-square&logo=python&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Flask-ffd9f0?style=flat-square&logo=flask&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/FastAPI-ffd9f0?style=flat-square&logo=fastapi&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/SQLite-ffd9f0?style=flat-square&logo=sqlite&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/REST_APIs-ffd9f0?style=flat-square&logo=postman&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/GraphQL-ffd9f0?style=flat-square&logo=graphql&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Database_Design-ffd9f0?style=flat-square&logo=databricks&logoColor=EA9AB2" />
+  <img src="https://img.shields.io/badge/Python-ffd9f0?style=for-the-badge&logo=python&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Flask-ffd9f0?style=for-the-badge&logo=flask&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/FastAPI-ffd9f0?style=for-the-badge&logo=fastapi&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/SQLite-ffd9f0?style=for-the-badge&logo=sqlite&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/REST_APIs-ffd9f0?style=for-the-badge&logo=postman&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/GraphQL-ffd9f0?style=for-the-badge&logo=graphql&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Database_Design-ffd9f0?style=for-the-badge&logo=databricks&logoColor=EA9AB2" height="40" />
 </p>
 
-### 🤖 Intelligent Systems
+### Intelligent Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Agentic_Engineering-ffd9f0?style=flat-square&logo=openai&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/LangChain_Workflows-ffd9f0?style=flat-square&logo=chainlink&logoColor=EA9AB2" />
+  <img src="https://img.shields.io/badge/Agentic_Engineering-ffd9f0?style=for-the-badge&logo=openai&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/LangChain_Workflows-ffd9f0?style=for-the-badge&logo=chainlink&logoColor=EA9AB2" height="40" />
 </p>
 
-### 🎛️ Hardware & Low-Level Systems
+### Hardware & Low-Level Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/C-ffd9f0?style=flat-square&logo=c&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/C++-ffd9f0?style=flat-square&logo=cplusplus&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Java-ffd9f0?style=flat-square&logo=openjdk&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Arduino-ffd9f0?style=flat-square&logo=arduino&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Hardware_Interrupts-ffd9f0?style=flat-square&logo=cpu&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Electronic_Circuits-ffd9f0?style=flat-square&logo=circuitverse&logoColor=EA9AB2" />
+  <img src="https://img.shields.io/badge/C-ffd9f0?style=for-the-badge&logo=c&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/C++-ffd9f0?style=for-the-badge&logo=cplusplus&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Java-ffd9f0?style=for-the-badge&logo=openjdk&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Arduino-ffd9f0?style=for-the-badge&logo=arduino&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Hardware_Interrupts-ffd9f0?style=for-the-badge&logo=cpu&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Electronic_Circuits-ffd9f0?style=for-the-badge&logo=circuitverse&logoColor=EA9AB2" height="40" />
 </p>
 
-### 🛠️ Prototyping, Utilities & Other Magic
+### Prototyping & Utilities
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-ffd9f0?style=flat-square&logo=git&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Linux-ffd9f0?style=flat-square&logo=linux&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/CAD_Design-ffd9f0?style=flat-square&logo=autodesk&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/3D_Printing-ffd9f0?style=flat-square&logo=ultimaker&logoColor=EA9AB2" />
-  <img src="https://img.shields.io/badge/Antigravity-ffd9f0?style=flat-square&logo=spacex&logoColor=EA9AB2" />
+  <img src="https://img.shields.io/badge/Git-ffd9f0?style=for-the-badge&logo=git&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Linux-ffd9f0?style=for-the-badge&logo=linux&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/CAD_Design-ffd9f0?style=for-the-badge&logo=autodesk&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/3D_Printing-ffd9f0?style=for-the-badge&logo=ultimaker&logoColor=EA9AB2" height="40" />
+  <img src="https://img.shields.io/badge/Antigravity-ffd9f0?style=for-the-badge&logo=spacex&logoColor=EA9AB2" height="40" />
 </p>
 
 ---
 
-## 📌 Highlight Reels (Current Projects)
+## Live Activity & Open Source Analytics
 
-### 📟 1. Vintage Hardware MP3 Auto-Sync Utility | [Repo Link](https://github.com/yourusername/ipod-sync)
-> *I found my dad's original 2000s iPod Shuffle but realized downloading modern streaming tracks manually was a headache. So, I built a pipeline to bring it back to life!*
-*   **The Tech:** Python, JavaScript, ThreadPoolExecutor parallel routines, `mutagen` file-header writes, `thefuzz` Levenshtein distance matching.
-*   **The Win:** Parallelized downloads to reduce processing times by 65% and bumped search query accuracy up from 75% to 95%.
-
-### 🎒 2. Wolfpack AI Academic Co-Pilot | [Repo Link](https://github.com/yourusername/ncsu-ai-copilot)
-> *A super handy campus dashboard that reads your course transcript and maps out your college path and daily routines without the scheduling stress.*
-*   **The Tech:** FastAPI, LangChain Agent Frameworks, `pdfplumber` text parsers, SQLite relational databases.
-*   **The Win:** Scores course options using historical student grade patterns and organizes daily calendars to stay completely conflict-free.
-
----
-
-## 📊 Live Activity Tracker
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=rose" alt="Narayani's Git Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=rose" alt="Narayani's Top Languages" width="48%" />
-</p>
-
----
 <p align="center">
-  🌸 <i>Drop a follow if you love hardware hacks, pastel code layouts, or just want to chat engineering!</i> 🌸
+  <!-- High-visibility theme chosen to ensure graphs render correctly on both light/dark github modes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gargnarayani&show_icons=true&theme=buefy&hide_border=true" alt="Narayani's Git Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gargnarayani&layout=compact&theme=buefy&hide_border=true" alt="Narayani's Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gargnarayani&theme=buefy&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
