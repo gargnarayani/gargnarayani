@@ -20,11 +20,12 @@
 
 ## About Me
 
-<div>
-  <!-- Text Side -->
-  <div align="left" style="display: inline-block; width: 48%; vertical-align: top;">
-    Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
-  </div>
+<p align="left">
+  <img src="quote.png" alt="My Favorite Quote" width="35%" align="right" style="margin-left: 20px; border-radius: 10px;" />
+  Hi there! I'm Narayani Garg, a Computer Engineering student at NC State. I am passionate about bridging the gap between hardware execution and clean, high-performance software logic, and I am currently working on some passion projects, technical courses, and working.
+</p>
+
+<br clear="right" />
   
   <!-- Image Side -->
   <div align="right" style="display: inline-block; width: 48%; vertical-align: top;">
