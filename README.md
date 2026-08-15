@@ -1,7 +1,3 @@
-<p align="center">
-  <!-- Banner Image -->
-  <img src="githubbanner.png" alt="Welcome to Narayani Garg's GitHub" width="100%" style="border-radius: 15px;" />
-</p>
 
 <p align="center">
   <!-- Typing animation -->
