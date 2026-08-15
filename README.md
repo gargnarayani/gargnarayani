@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,12,13,22&height=200&section=header&text=Welcome%20to%20Narayani's%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+</div>
 
 <p align="center">
   <!-- Typing animation -->
